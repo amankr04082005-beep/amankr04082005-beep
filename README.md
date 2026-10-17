@@ -20,7 +20,6 @@
 <br><br>
 
 <img src="https://img.shields.io/github/followers/amankr04082005-beep?style=for-the-badge&logo=github&color=19E3A2&labelColor=0E1621" alt="Followers">
-<img src="https://komarev.com/ghpvc/?username=amankr04082005-beep&style=for-the-badge&color=38D4F5&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
