@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=3000&pause=1200&color=22C58B&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Software+Engineer;Python+%7C+FastAPI+%7C+React+%7C+Node.js;3rd+Rank+%E2%80%94+Coding+and+Debugging+IT+Fest+2024;4+Live+Projects+Deployed" alt="Typing animation" />
   </a>
 </div>
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=63d3ae&height=200&section=header&text=Aman%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20FastAPI%20%7C%20React%20%7C%20Node.js&descSize=18&descAlignY=60" width="100%" alt="Aman Kumar banner" />
 
