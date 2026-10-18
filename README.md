@@ -1,18 +1,21 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=63d3ae&height=200&section=header&text=Aman%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20FastAPI%20%7C%20React%20%7C%20Node.js&descSize=18&descAlignY=60" width="100%" alt="Aman Kumar banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1220,100:0f5c4a&height=200&section=header&text=Aman%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20FastAPI%20%7C%20React%20%7C%20Node.js&descSize=18&descColor=63d3ae&descAlignY=60" width="100%" alt="Aman Kumar banner" />
 
 <br/>
 
+<!-- Typing animation -->
+<a href="https://github.com/amankr04082005-beep">
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=3000&pause=1200&color=22C58B&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Software+Engineer;Python+%7C+FastAPI+%7C+React+%7C+Node.js;3rd+Rank+in+Coding+and+Debugging%2C+IT+Fest+2024;4+Live+Projects+Deployed" alt="Typing animation" />
+</a>
+
+<br/><br/>
+
 <a href="https://url-shortener-5g04.onrender.com/docs"><img src="https://img.shields.io/badge/LIVE%20PROJECT-URL%20Shortener%20API-24292e?style=for-the-badge&logo=fastapi&logoColor=63d3ae" alt="Live project" /></a>
-<br/><br/>
 <a href="./Aman_Kumar_Resume%20(1).pdf"><img src="https://img.shields.io/badge/VIEW%20RESUME%20PDF-f5a623?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
-<br/><br/>
 <a href="https://www.linkedin.com/in/aman-kumar-3a5376291/"><img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<br/><br/>
 <a href="https://github.com/amankr04082005-beep"><img src="https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<br/><br/>
 <a href="https://mail.google.com/mail/?view=cm&to=amankumar04082005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
@@ -183,20 +186,6 @@ Role-based screens for patients, doctors and admins, with appointment and consul
 
 <br/>
 
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
-</picture>
-
-</div>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -218,15 +207,7 @@ Role-based screens for patients, doctors and admins, with appointment and consul
 
 <div align="center">
 
-<a href="https://url-shortener-5g04.onrender.com/docs"><img src="https://img.shields.io/badge/LIVE%20PROJECT-24292e?style=for-the-badge&logo=fastapi&logoColor=63d3ae" alt="Live project" /></a>
-<a href="./Aman_Kumar_Resume%20(1).pdf"><img src="https://img.shields.io/badge/VIEW%20RESUME-f5a623?style=for-the-badge" alt="Resume" /></a>
-<a href="https://www.linkedin.com/in/aman-kumar-3a5376291/"><img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/amankr04082005-beep"><img src="https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://mail.google.com/mail/?view=cm&to=amankumar04082005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=63d3ae&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5c4a,100:0a1220&height=100&section=footer" width="100%" alt="footer" />
 
 *Designed & engineered with ❤️ by Aman Kumar*
 
