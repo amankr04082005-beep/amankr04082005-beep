@@ -1,106 +1,211 @@
+<!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=19E3A2&height=230&section=header&text=Aman%20Kumar&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20FastAPI%20%7C%20React&descSize=22&descAlignY=60" width="100%" alt="Aman Kumar banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=63d3ae&height=200&section=header&text=Aman%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20FastAPI%20%7C%20React%20%7C%20Node.js&descSize=18&descAlignY=60" width="100%" alt="Aman Kumar banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0BAA78&center=true&vCenter=true&width=760&lines=I+build+REST+APIs+and+ship+them+live;BCA+Graduate+%7C+CGPA+8.4;Open+to+entry-level+Software+Engineer+roles" alt="Typing animation">
+<br/>
 
-<br><br>
-
-<a href="./Aman_Kumar_Resume%20(1).pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-FFC107?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Resume"></a>
-<a href="https://www.linkedin.com/in/aman-kumar-3a5376291/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://mail.google.com/mail/?view=cm&to=amankumar04082005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-<br>
-
-<a href="https://url-shortener-5g04.onrender.com/docs"><img src="https://img.shields.io/badge/URL_Shortener-Live_Demo-FF7A3D?style=for-the-badge&logo=fastapi&logoColor=white" alt="URL Shortener live"></a>
-<a href="https://job-tracker-one-taupe.vercel.app"><img src="https://img.shields.io/badge/Job_Tracker-Live_Demo-5B7CFF?style=for-the-badge&logo=react&logoColor=white" alt="Job Tracker live"></a>
-<a href="https://mini-search-engine-5k3o.onrender.com"><img src="https://img.shields.io/badge/Search_Engine-Live_Demo-B14CFF?style=for-the-badge&logo=flask&logoColor=white" alt="Search Engine live"></a>
-<a href="https://mini-irr1pwwfq-newzenexperts-solution.vercel.app"><img src="https://img.shields.io/badge/Lead_CRM-Live_Demo-FF4F9A?style=for-the-badge&logo=mongodb&logoColor=white" alt="CRM live"></a>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/amankr04082005-beep?style=for-the-badge&logo=github&color=19E3A2&labelColor=0E1621" alt="Followers">
+<a href="https://url-shortener-5g04.onrender.com/docs"><img src="https://img.shields.io/badge/LIVE%20PROJECT-URL%20Shortener%20API-000000?style=for-the-badge&logo=fastapi&logoColor=63d3ae" alt="Live project" /></a>
+<br/><br/>
+<a href="./Aman_Kumar_Resume%20(1).pdf"><img src="https://img.shields.io/badge/VIEW%20RESUME%20PDF-f5a623?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+<br/><br/>
+<a href="https://www.linkedin.com/in/aman-kumar-3a5376291/"><img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<br/><br/>
+<a href="https://github.com/amankr04082005-beep"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<br/><br/>
+<a href="https://mail.google.com/mail/?view=cm&to=amankumar04082005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
-## ⚡ About me
+<div align="center">
 
-Entry-level Software Engineer from Bengaluru, looking for my first full-time role. I like backend work: designing database schemas, writing clean APIs, and testing them properly. Everything below is deployed or on GitHub, and I can walk you through any of it.
+### 💡 *"Building REST APIs and full-stack apps that are simple to use and solid under the hood."*
 
-- 🎓 **BCA**, Acharya Institute of Graduate Studies, Bengaluru (2023 to 2026), **CGPA 8.4**
-- 🥉 **3rd rank**, Coding and Debugging Competition (team of 3), IT Fest 2024
-- 📜 HackerRank Problem Solving (Intermediate), Python with DSA (Unstop), GitHub Workflow Mastery
-- 🔭 Currently: building backend projects with FastAPI, PostgreSQL and Docker
+</div>
+
+<br/>
+
+## ⚡ Executive Summary
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Background & Credentials
+
+- **Degree:** BCA @ Acharya Institute of Graduate Studies, Bengaluru (2023–2026)
+- **Academic CGPA:** 8.4 / 10
+- **Certifications:** HackerRank Problem Solving (Intermediate), Python with DSA (Unstop), GitHub Workflow Mastery
+- **Core CS:** Data Structures and Algorithms, OOP, DBMS
+- **Resume:** [📄 View Resume PDF](./Aman_Kumar_Resume%20(1).pdf)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Achievements & Honors
+
+- 🥉 **3rd Rank:** Coding and Debugging Competition (team of 3), IT Fest 2024
+- 🌐 **Live Project:** [URL Shortener API](https://url-shortener-5g04.onrender.com/docs)
+- 🚀 **Deployed Apps:** 4 projects live on Render and Vercel
+- 🤝 Volunteer at IT Quiz 2024, participant in NSS "Walk to EmpowHER"
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Software Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ 1. URL Shortener API
+**FastAPI + PostgreSQL Backend**
+
+Shortens links, redirects them and tracks click statistics. Atomic SQL click counts, a unique index on the short code, validated custom aliases, 10 pytest tests, and a Dockerized deployment.
+
+`Python` • `FastAPI` • `PostgreSQL` • `SQLAlchemy` • `Docker` • `pytest`
+
+[🚀 Launch Live Application »](https://url-shortener-5g04.onrender.com/docs) &nbsp;|&nbsp; [View Code Repository »](https://github.com/amankr04082005-beep/url-shortener)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 2. Job Application Tracker
+**Full-Stack Pipeline Dashboard**
+
+Track applications through Applied, Interview, Offer and Rejected. 9 REST endpoints, JWT with bcrypt, search and filters, and a dashboard powered by a MongoDB aggregation endpoint.
+
+`React` • `Node.js` • `Express` • `MongoDB` • `JWT`
+
+[🚀 Launch Live Application »](https://job-tracker-one-taupe.vercel.app) &nbsp;|&nbsp; [View Code Repository »](https://github.com/amankr04082005-beep/job-tracker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 3. Mini Search Engine
+**TF-IDF Ranked Search**
+
+Builds an inverted index over documents and ranks results with smoothed TF-IDF and stopword removal. Includes a web UI and four Flask API endpoints.
+
+`Python` • `Flask` • `SQLite` • `TF-IDF`
+
+[🚀 Launch Live Application »](https://mini-search-engine-5k3o.onrender.com) &nbsp;|&nbsp; [View Code Repository »](https://github.com/amankr04082005-beep/mini-search-engine)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧲 4. Client Lead CRM
+**Lead Pipeline Management**
+
+Move leads from New to Contacted, Converted or Lost, with follow-up notes, search and filters. Admin access is secured with JWT.
+
+`React` • `Node.js` • `Express` • `MongoDB` • `JWT`
+
+[🚀 Launch Live Application »](https://mini-irr1pwwfq-newzenexperts-solution.vercel.app) &nbsp;|&nbsp; [View Code Repository »](https://github.com/amankr04082005-beep/mini-crm)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧮 5. In-Memory Key-Value Store
+**Redis-like Store in Python**
+
+SET, GET, DELETE, EXISTS and KEYS in O(1) average time, with lazy TTL expiry, O(1) LRU eviction, a CLI and unit tests.
+
+`Python` • `OOP` • `OrderedDict` • `Unit Testing`
+
+[View Code Repository »](https://github.com/amankr04082005-beep/kv-store)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 6. MediFlow
+**Hospital Management System**
+
+Role-based screens for patients, doctors and admins, with appointment and consultation workflows.
+
+`React` • `Node.js` • `MongoDB` • `FastAPI`
+
+[View Code Repository »](https://github.com/amankr04082005-beep/Hospital-management-system)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 💻 Tech Stack & Frameworks
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amankr04082005-beep&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankr04082005-beep&layout=compact&theme=radical&hide_border=true" height="170" alt="Top languages">
+<img src="https://img.shields.io/badge/PYTHON-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/REACT-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/POSTGRESQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MONGODB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MYSQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQLITE-003b57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/DOCKER-2496ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/GIT-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/RENDER-46e3b7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
+</div>
+
+<br/>
+
+## 📈 Verified Performance & Metrics
+
+<div align="center">
+
+| Metric Category | Value / Status | Badge |
+| :-- | :-- | :-- |
+| Academic CGPA | 8.4 / 10 (Acharya Institute) | ![CGPA](https://img.shields.io/badge/ACADEMIC%20CGPA-8.4%20%2F%2010-3b82f6?style=for-the-badge) |
+| Projects Deployed | 4 live apps | ![Projects](https://img.shields.io/badge/LIVE%20PROJECTS-4-63d3ae?style=for-the-badge) |
+| URL Shortener Tests | 10 pytest tests | ![Tests](https://img.shields.io/badge/PYTEST-10%20TESTS-2ea44f?style=for-the-badge&logo=pytest&logoColor=white) |
+| Job Tracker API | 9 REST endpoints | ![API](https://img.shields.io/badge/REST%20ENDPOINTS-9-ff7a3d?style=for-the-badge) |
+| Key-Value Store Speed | 1M+ SET ops/sec (local benchmark) | ![Speed](https://img.shields.io/badge/KV%20STORE-1M%2B%20OPS%2FSEC-b14cff?style=for-the-badge) |
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amankr04082005-beep&show_icons=true&theme=transparent&hide_border=true&title_color=63d3ae&icon_color=63d3ae" alt="GitHub stats" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankr04082005-beep&layout=compact&theme=transparent&hide_border=true&title_color=63d3ae" alt="Top languages" height="160" />
 
 </div>
 
 ---
 
-## 🚀 Featured projects
-
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| 🟠 **URL Shortener API** | Shortens links, redirects them and counts clicks. Atomic SQL click counts, unique index on the short code, 10 pytest tests, Dockerized. | Python, FastAPI, PostgreSQL, SQLAlchemy, Docker | [Live](https://url-shortener-5g04.onrender.com/docs) • [Code](https://github.com/amankr04082005-beep/url-shortener) |
-| 🔵 **Job Application Tracker** | Track applications through Applied, Interview, Offer and Rejected. 9 REST endpoints, JWT with bcrypt, aggregation dashboard. | React, Node.js, Express, MongoDB | [Live](https://job-tracker-one-taupe.vercel.app) • [Code](https://github.com/amankr04082005-beep/job-tracker) |
-| 🟣 **Mini Search Engine** | Inverted index with smoothed TF-IDF ranking and stopword removal, plus a web UI. | Python, Flask, SQLite | [Live](https://mini-search-engine-5k3o.onrender.com) • [Code](https://github.com/amankr04082005-beep/mini-search-engine) |
-| 🩷 **Client Lead CRM** | Lead pipeline (New, Contacted, Converted, Lost) with notes, search and filters. JWT-secured admin. | React, Node.js, Express, MongoDB | [Live](https://mini-irr1pwwfq-newzenexperts-solution.vercel.app) • [Code](https://github.com/amankr04082005-beep/mini-crm) |
-| 🟢 **In-Memory Key-Value Store** | Redis-like store with lazy TTL expiry and O(1) LRU eviction, CLI and unit tests. | Python, OOP, OrderedDict | [Code](https://github.com/amankr04082005-beep/kv-store) |
-| 🩵 **MediFlow** | Hospital management system with role-based screens for patients, doctors and admins. | React, Node.js, MongoDB, FastAPI | [Code](https://github.com/amankr04082005-beep/Hospital-manegment-system) |
-
----
-
-## 💻 Tech stack
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<a href="https://url-shortener-5g04.onrender.com/docs"><img src="https://img.shields.io/badge/LIVE%20PROJECT-000000?style=for-the-badge&logo=fastapi&logoColor=63d3ae" alt="Live project" /></a>
+<a href="./Aman_Kumar_Resume%20(1).pdf"><img src="https://img.shields.io/badge/VIEW%20RESUME-f5a623?style=for-the-badge" alt="Resume" /></a>
+<a href="https://www.linkedin.com/in/aman-kumar-3a5376291/"><img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/amankr04082005-beep"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=amankumar04082005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-**Core CS:** Data Structures and Algorithms, OOP, DBMS
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=63d3ae&height=100&section=footer" width="100%" alt="footer" />
+
+*Designed & engineered with ❤️ by Aman Kumar*
 
 </div>
-
----
-
-## 📈 By the numbers
-
-| Metric | Value |
-|---|---|
-| 🎓 Academic CGPA | **8.4 / 10** (BCA, Acharya Institute) |
-| 🥉 Competition result | **3rd rank**, Coding and Debugging, IT Fest 2024 |
-| 🌐 Projects deployed live | **4** (Render and Vercel) |
-| ✅ URL Shortener test suite | **10** pytest tests |
-| 🔌 Job Tracker API | **9** REST endpoints |
-| ⚡ Key-Value Store speed | **1M+** SET operations/sec (local benchmark, 200,000 keys) |
-
----
-
-## 📫 Let's connect
-
-I'm open to **entry-level Software Engineer** roles (full-stack or backend).
-
-📧 [amankumar04082005@gmail.com](https://mail.google.com/mail/?view=cm&to=amankumar04082005@gmail.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/aman-kumar-3a5376291/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=19E3A2&height=120&section=footer" width="100%" alt="">
