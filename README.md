@@ -84,6 +84,7 @@ Shortens links, redirects them and tracks click statistics. Atomic SQL click cou
 Track applications through Applied, Interview, Offer and Rejected. 9 REST endpoints, JWT with bcrypt, search and filters, and a dashboard powered by a MongoDB aggregation endpoint.
 
 `React` • `Node.js` • `Express` • `MongoDB` • `JWT`
+
 🔑 **Demo login:** `demo.tracker@gmail.com` / `Demo@1234`
 
 [🚀 Launch Live Application »](https://job-tracker-one-taupe.vercel.app) &nbsp;|&nbsp; [View Code Repository »](https://github.com/amankr04082005-beep/job-tracker)
