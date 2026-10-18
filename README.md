@@ -113,6 +113,8 @@ Move leads from New to Contacted, Converted or Lost, with follow-up notes, searc
 
 `React` • `Node.js` • `Express` • `MongoDB` • `JWT`
 
+🔑 Demo login: demo.crm@gmail.com / Demo@1234
+
 [🚀 Launch Live Application »](https://mini-irr1pwwfq-newzenexperts-solution.vercel.app) &nbsp;|&nbsp; [View Code Repository »](https://github.com/amankr04082005-beep/mini-crm)
 
 </td>
