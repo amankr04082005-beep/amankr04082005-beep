@@ -183,7 +183,7 @@ Role-based screens for patients, doctors and admins, with appointment and consul
 
 <br/>
 
-## 🧊 3D Contribution Graph
+
 
 <div align="center">
 
