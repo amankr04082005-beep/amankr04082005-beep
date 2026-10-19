@@ -16,6 +16,7 @@
 <a href="./Aman_Kumar_Resume%20(1).pdf"><img src="https://img.shields.io/badge/VIEW%20RESUME%20PDF-f5a623?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 <a href="https://www.linkedin.com/in/aman-kumar-3a5376291/"><img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/amankr04082005-beep"><img src="https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amankr04082005-beep/)
 <a href="https://mail.google.com/mail/?view=cm&to=amankumar04082005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
