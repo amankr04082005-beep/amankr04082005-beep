@@ -18,6 +18,7 @@
 <a href="https://github.com/amankr04082005-beep"><img src="https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amankr04082005-beep/)
 <a href="https://mail.google.com/mail/?view=cm&to=amankumar04082005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-website-mu-six-54.vercel.app/)
 
 </div>
 
