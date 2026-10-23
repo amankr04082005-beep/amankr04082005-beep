@@ -13,12 +13,12 @@
 <br/><br/>
 
 <a href="https://url-shortener-5g04.onrender.com/docs"><img src="https://img.shields.io/badge/LIVE%20PROJECT-URL%20Shortener%20API-24292e?style=for-the-badge&logo=fastapi&logoColor=63d3ae" alt="Live project" /></a>
-<a href="./Aman_Kumar_Resume%20(1).pdf"><img src="https://img.shields.io/badge/VIEW%20RESUME%20PDF-f5a623?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+<a href="./Aman_Kumar_Resume%20(3).pdf"><img src="https://img.shields.io/badge/VIEW%20RESUME%20PDF-f5a623?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 <a href="https://www.linkedin.com/in/aman-kumar-3a5376291/"><img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/amankr04082005-beep"><img src="https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amankr04082005-beep/)
+<a href="https://leetcode.com/u/amankr04082005-beep/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://mail.google.com/mail/?view=cm&to=amankumar04082005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-website-mu-six-54.vercel.app/)
+<a href="https://personal-portfolio-website-mu-six-54.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -44,7 +44,7 @@
 - **Academic CGPA:** 8.4 / 10
 - **Certifications:** HackerRank Problem Solving (Intermediate), Python with DSA (Unstop), GitHub Workflow Mastery
 - **Core CS:** Data Structures and Algorithms, OOP, DBMS
-- **Resume:** [📄 View Resume PDF](./Aman_Kumar_Resume%20(1).pdf)
+- **Resume:** [📄 View Resume PDF](./Aman_Kumar_Resume%20(3).pdf)
 
 </td>
 <td width="50%" valign="top">
@@ -63,6 +63,8 @@
 <br/>
 
 ## 🚀 Featured Software Projects
+
+> ⏳ **Note:** The URL Shortener and Mini Search Engine are hosted on Render's free plan. If a demo shows "Service waking up", wait about a minute and it will load.
 
 <table>
 <tr>
@@ -115,9 +117,9 @@ Move leads from New to Contacted, Converted or Lost, with follow-up notes, searc
 
 `React` • `Node.js` • `Express` • `MongoDB` • `JWT`
 
-🔑 Demo login: demo.crm@gmail.com / Demo@1234
+🔑 **Demo login:** `demo.crm@gmail.com` / `Demo@1234`
 
-[🚀 Launch Live Application »](https://mini-irr1pwwfq-newzenexperts-solution.vercel.app) &nbsp;|&nbsp; [View Code Repository »](https://github.com/amankr04082005-beep/mini-crm)
+[🚀 Launch Live Application »](https://mini-crm-sepia-kappa.vercel.app) &nbsp;|&nbsp; [View Code Repository »](https://github.com/amankr04082005-beep/mini-crm)
 
 </td>
 </tr>
