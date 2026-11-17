@@ -1,13 +1,13 @@
 <!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1220,100:0f5c4a&height=200&section=header&text=Aman%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20FastAPI%20%7C%20React%20%7C%20Node.js&descSize=18&descColor=63d3ae&descAlignY=60" width="100%" alt="Aman Kumar banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1220,100:0f5c4a&height=200&section=header&text=Aman%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20Python%20%7C%20FastAPI%20%7C%20React%20%7C%20Node.js&descSize=18&descColor=63d3ae&descAlignY=60" width="100%" alt="Aman Kumar banner" />
 
 <br/>
 
 <!-- Typing animation -->
 <a href="https://github.com/amankr04082005-beep">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=3000&pause=1200&color=22C58B&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Software+Engineer;Python+%7C+FastAPI+%7C+React+%7C+Node.js;3rd+Rank+in+Coding+and+Debugging%2C+IT+Fest+2024;4+Live+Projects+Deployed" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=26&duration=3000&pause=1200&color=22C58B&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Software+Engineer;Java+%7C+Python+%7C+FastAPI+%7C+React+%7C+Node.js;3rd+Rank+in+Coding+and+Debugging%2C+IT+Fest+2024;4+Live+Projects+Deployed" alt="Typing animation" />
 </a>
 
 <br/><br/>
@@ -157,6 +157,7 @@ Role-based screens for patients, doctors and admins, with appointment and consul
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/JAVA-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/PYTHON-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/SQL-4479a1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
